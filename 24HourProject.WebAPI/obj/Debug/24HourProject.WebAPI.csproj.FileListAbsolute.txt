@@ -1,2 +1,0 @@
-C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.WebAPI\obj\Debug\24HourProject.WebAPI.csprojAssemblyReference.cache
-C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.WebAPI\obj\Debug\24HourProject.WebAPI.csproj.CoreCompileInputs.cache
