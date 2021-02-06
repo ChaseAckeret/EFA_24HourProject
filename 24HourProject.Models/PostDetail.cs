@@ -5,24 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24HourProject.Data
+namespace _24HourProject.Models
 {
-    public class Post
+    public class PostDetail
     {
-        [Key]
-        public int Id { get; set; }
-
-        [Required]
+        public int PostId { get; set; }
         public string Content { get; set; }
 
-        public virtual List<Comment> Comment { get; set; }
-
-        [Required]
-        public Guid AuthorId { get; set; }
-
-        [Required]
+        [Display(Name ="Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
+        [Display(Name ="Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
