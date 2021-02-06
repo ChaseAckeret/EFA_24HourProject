@@ -16,7 +16,6 @@ namespace _24HourProject.Services
         {
             _userId = userId;
         }
-
         public bool CreateComment(CommentCreate model)
         {
             var entity =
