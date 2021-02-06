@@ -32,6 +32,27 @@ namespace _24HourProject.Services
                 return ctx.SaveChanges() == 1;
             }
         }
+        public IEnumerable<CommentListItem> GetNotes()
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                        .Comments
+                        .Where(e => e.Author == _userId)
+                        .Select(
+                            e =>
+                                new CommentListItem
+                                {
+                                    Id = e.Id,
+                                    CommentText = e.CommentText,
+                                    CreatedUtc = e.CreatedUtc
+                                }
+                        );
+
+                return query.ToArray();
+            }
+        }
     }
 
 

@@ -27,3 +27,21 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.pdb
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.dll.config
 >>>>>>> 363ad0bb836cc0aee48dc772f85c6349563a5b6e
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Services.dll.config
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Services.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Services.pdb
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\EntityFramework.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.pdb
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.dll.config
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.pdb
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.dll.config
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\EntityFramework.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
