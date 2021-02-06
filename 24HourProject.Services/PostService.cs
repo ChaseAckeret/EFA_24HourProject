@@ -17,7 +17,7 @@ namespace _24HourProject.Services
             _userId = userId;
         }
 
-        public bool PostCreate(PostCreate model)
+        public bool CreatePost(PostCreate model)
         {
             var  entity =
                 new Post()
@@ -31,6 +31,28 @@ namespace _24HourProject.Services
             {
                 ctx.Posts.Add(entity);
                 return ctx.SaveChanges() == 1;
+            }
+        }
+
+        public IEnumerable<PostListItem> GetPost()
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                        .Posts
+                        .Where(e => e.AuthorId == _userId)
+                        .Select(
+                            e =>
+                                new PostListItem
+                                {
+                                    PostId = e.Id,
+                                    Text = e.Content,
+                                    CreatedUtc = e.CreatedUtc
+                                }
+                        );
+
+                return query.ToArray();
             }
         }
     }
