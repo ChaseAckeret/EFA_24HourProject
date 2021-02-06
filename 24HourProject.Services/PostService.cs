@@ -74,6 +74,22 @@ namespace _24HourProject.Services
                     };
             }
         }
+
+        public bool UpdatePost(PostEdit model)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Posts
+                        .Single(e => e.Id == model.PostId && e.AuthorId == _userId);
+
+                entity.Content = model.Content;
+                entity.ModifiedUtc = DateTimeOffset.Now;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }
 

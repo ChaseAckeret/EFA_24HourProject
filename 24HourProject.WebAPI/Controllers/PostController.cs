@@ -46,5 +46,18 @@ namespace _24HourProject.WebAPI.Controllers
             var post = postService.GetPostById(id);
             return Ok(post);
         }
+
+        public IHttpActionResult Put(PostEdit post)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var service = CreatePostService();
+
+            if (!service.UpdatePost(post))
+                return InternalServerError();
+
+            return Ok();
+        }
     }
 }
