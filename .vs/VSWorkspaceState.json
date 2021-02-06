@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\24HourProject.Data",
+    "\\24HourProject.Models",
+    "\\24HourProject.Services"
   ],
+  "SelectedNode": "\\24HourProject.Models\\CommentCreate.cs",
   "PreviewInSolutionExplorer": false
 }

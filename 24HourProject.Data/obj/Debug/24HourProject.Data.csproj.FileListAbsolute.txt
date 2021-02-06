@@ -33,3 +33,7 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.dll
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csprojAssemblyReference.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CoreCompileInputs.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
