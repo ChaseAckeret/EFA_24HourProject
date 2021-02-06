@@ -14,3 +14,7 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.csprojAssemblyReference.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CoreCompileInputs.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.pdb

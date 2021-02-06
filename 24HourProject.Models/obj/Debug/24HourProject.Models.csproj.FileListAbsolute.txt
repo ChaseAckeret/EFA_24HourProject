@@ -14,3 +14,19 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.csproj.CopyComplete
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\24HourProject.Models.dll.config
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\24HourProject.Models.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\24HourProject.Models.pdb
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\EntityFramework.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\EntityFramework.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.csprojAssemblyReference.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.csproj.CoreCompileInputs.cache
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.csproj.CopyComplete
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.dll
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Models\obj\Debug\24HourProject.Models.pdb

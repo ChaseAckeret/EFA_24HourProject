@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _24HourProject.Data
 {
-    Public class Comment
+     public class Comment
     {
         [Key]
         public int Id { get; set; }
