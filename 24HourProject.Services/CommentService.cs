@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _24HourProject.Data;
+using _24HourProject.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,21 +16,21 @@ namespace _24HourProject.Services
         {
             _userId = userId;
         }
-    }
-    public bool CreateComment(CommentCreate model)
-    {
-        var entity =
-            new Comment()
-            {
-                Author = _userId,
-                CommentText = model.CommentText,
-                CreatedUtc = DateTimeOffset.Now
-            };
-
-        using (var ctx = new ApplicationDbContext())
+        public bool CreateComment(CommentCreate model)
         {
-            ctx.Comment.Add(entity);
-            return ctx.SaveChanges() == 1;
+            var entity =
+                new Comment()
+                {
+                    Author = _userId,
+                    CommentText = model.CommentText,
+                    CreatedUtc = DateTimeOffset.Now
+                };
+
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Comments.Add(entity);
+                return ctx.SaveChanges() == 1;
+            }
         }
     }
 

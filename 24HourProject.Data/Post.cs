@@ -20,5 +20,7 @@ namespace _24HourProject.Data
 
         [Required]
         public Guid AuthorId { get; set; }
+
+        public DateTimeOffset CreatedUtc { get; set; }
     }
 }
