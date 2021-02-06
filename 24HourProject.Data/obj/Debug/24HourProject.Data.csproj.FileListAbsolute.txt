@@ -33,3 +33,6 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.dll
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.pdb
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.InitialCreate.resources
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.AddedModifiedUtc.resources
