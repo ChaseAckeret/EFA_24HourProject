@@ -23,6 +23,15 @@ namespace _24HourProject.Data
 
         public DateTimeOffset? ModifiedUtc { get; set; }
 
+        // linkage to Posts
+
+        // this will set the foreigh key to thr primay key in Post
+        [ForeignKey(nameof(Post))]
+        public int PostID { get; set; }
+
+        // navigation property - I believe this is used to access Post properties from the comment class
+        public virtual Post Post { get; set; }
+
 
         /// rough in for Replies
 

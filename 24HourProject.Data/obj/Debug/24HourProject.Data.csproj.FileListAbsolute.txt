@@ -68,3 +68,5 @@ D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\bin\Debug\System.Net.H
 D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\bin\Debug\System.Web.Http.xml
 D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\bin\Debug\System.Web.Http.Owin.xml
 D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.CopyComplete
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\_24HourProject.Data.Migrations.addedforeignkey.resources
+D:\ElevenFifty-Blue-Team\24HourProject\24HourProject.Data\obj\Debug\24HourProject.Data.csproj.GenerateResource.cache
