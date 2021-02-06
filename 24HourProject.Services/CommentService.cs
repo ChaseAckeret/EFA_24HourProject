@@ -32,7 +32,7 @@ namespace _24HourProject.Services
                 return ctx.SaveChanges() == 1;
             }
         }
-        public IEnumerable<CommentListItem> GetNotes()
+        public IEnumerable<CommentListItem> GetComments()
         {
             using (var ctx = new ApplicationDbContext())
             {
