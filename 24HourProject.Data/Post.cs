@@ -13,10 +13,7 @@ namespace _24HourProject.Data
         public int Id { get; set; }
 
         [Required]
-        public string Title { get; set; }
-
-        [Required]
-        public string Text { get; set; }
+        public string Content { get; set; }
 
         [Required]
         public virtual List<Comment> Comment { get; set; }

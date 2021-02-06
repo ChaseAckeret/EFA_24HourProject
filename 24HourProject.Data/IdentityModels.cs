@@ -33,7 +33,8 @@ namespace _24HourProject.Data
             return new ApplicationDbContext();
         }//end of method Create
 
-        public DBSet<Note> Notes { get; set;  }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<Comment> Comments { get; set; } //Check if we need this??
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -57,7 +58,7 @@ namespace _24HourProject.Data
         public IdentityUserLoginConfiguration()
         {
 
-            HasKey(iur => iur.UserId);
+            HasKey(iul => iul.UserId);
 
         }//end of constructor
 
