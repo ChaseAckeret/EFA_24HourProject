@@ -14,3 +14,9 @@ C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24H
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\obj\Debug\24HourProject.Services.csproj.CopyComplete
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.dll
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.dll
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.pdb
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Data.dll.config
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.pdb
+C:\Users\chase\OneDrive\Desktop\ElevenFiftyProjects\Blue Badge\24HourProject\24HourProject.Services\bin\Debug\24HourProject.Models.dll.config

@@ -17,16 +17,21 @@ namespace _24HourProject.Services
             _userId = userId;
         }
 
-        public bool CreatePost(PostCreate model)
+        public bool PostCreate(PostCreate model)
         {
-            var entity =
+            var  entity =
                 new Post()
                 {
-                    Id = _userId;
-                    Content = model.Text;
-                    
+                    AuthorId = _userId,
+                    Content = model.Text,
+                    CreatedUtc = DateTimeOffset.Now
                 };
-        
+            
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Posts.Add(entity);
+                return ctx.SaveChanges() == 1;
+            }
         }
     }
 }

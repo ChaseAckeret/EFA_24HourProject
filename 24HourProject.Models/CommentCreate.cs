@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _24HourProject.Models
 {
-    class CommentCreate
+    public class CommentCreate
     {
         [Required]
         [MinLength(4, ErrorMessage = "Please enter at least 4 characters.")]
